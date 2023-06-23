@@ -11,7 +11,7 @@ Segment 4: Analyze the actors and actresses who have starred in the most success
 
 ## Notebooks:
 1. <a href="RVSP_Question+Solution_Guru_Radhika_Pratik.sql" target="_blank">SQL File.</a>
-2. <a href="https://radhikakute.github.io/Linear_Regression_Bike_Sharing/Linear+Regression+Subjective+Questions_Radhika%20Kute.pdf" target="_blank">Executive Summary PDF.</a>
-3. <a href="https://radhikakute.github.io/Linear_Regression_Bike_Sharing/" target="_blank">README File.</a>
+2. <a href="RSVP_Executive Summary_Guru_Radhika_Pratik.pdf" target="_blank">Executive Summary PDF.</a>
+3. <a href="https://radhikakute.github.io/SQL_RSVP_Movies/" target="_blank">README File.</a>
 
 
