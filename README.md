@@ -10,4 +10,8 @@ Segment 3: Analyze the production houses that have released the most successful 
 Segment 4: Analyze the actors and actresses who have starred in the most successful movies to identify the most popular actors and actresses.
 
 ## Notebooks:
-1. 
+1. <a href="RVSP_Question+Solution_Guru_Radhika_Pratik.sql" target="_blank">SQL File.</a>
+2. <a href="https://radhikakute.github.io/Linear_Regression_Bike_Sharing/Linear+Regression+Subjective+Questions_Radhika%20Kute.pdf" target="_blank">Executive Summary PDF.</a>
+3. <a href="https://radhikakute.github.io/Linear_Regression_Bike_Sharing/" target="_blank">README File.</a>
+
+
